@@ -1,0 +1,8 @@
+{
+    "name": "0xZhengQian",
+    "logo": "https://all-free-test.4everland.store/glass-287718.png",
+    "rpc_url": "http://206.217.136.229:9944",
+    "explorer_url": "http://206.217.136.229:4000",
+    "metrics_endpoint": "http://206.217.136.229:9615/metrics",
+    "id": "6543db35-3446-40e8-859e-eaa8517d91a7"
+  }
